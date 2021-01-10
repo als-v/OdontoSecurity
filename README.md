@@ -1,4 +1,4 @@
-# OdontoSecurity
+# Odonto Security
 
 ## Sobre
 Odonto Security é um aplicativo voltado a informar conteúdos relacionados a saúde.
